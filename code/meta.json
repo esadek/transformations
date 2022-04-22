@@ -1,0 +1,16 @@
+{
+  "transformations": [
+    {
+      "file": "./code/transformation1.js",
+      "name": "Transformation1",
+      "description": "Description 1"
+    }
+  ],
+  "libraries": [
+    {
+      "file": "./code/library1.js",
+      "name": "Library1",
+      "description": "Description 1"
+    }
+  ]
+}
